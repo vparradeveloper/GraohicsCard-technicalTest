@@ -1,0 +1,7 @@
+<h2 class="title">graphics-card-detail</h2>
+
+<p>Select the ID to get information</p>
+<ng-container *ngFor="let id of cards">
+    <h1 class="buttonId" (click)="getDetails(id)">{{ id }}</h1>
+
+</ng-container>

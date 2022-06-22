@@ -1,0 +1,11 @@
+.imgCards {
+    display: flex;
+    width: 30%;
+    padding: 1rem;
+}
+
+.title {
+    font-size: 2rem;
+    color: rgb(194, 17, 17);
+    text-transform: capitalize;
+}

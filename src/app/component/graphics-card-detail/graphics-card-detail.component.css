@@ -1,0 +1,13 @@
+.title {
+    font-size: 2rem;
+    color: rgb(6, 6, 158);
+    text-transform: capitalize;
+}
+
+.buttonId {
+    width: 2rem;
+    height: 2rem;
+    background-color: bisque;
+    border: 3px solid black;
+    text-align: center;
+}
